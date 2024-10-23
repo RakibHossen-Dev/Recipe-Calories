@@ -13,7 +13,7 @@
       "Black pepper",
       "Salt"
     ],
-    "preparing_time": "20 minutes",
+    "preparing_time": 20,
     "calories": 400
   },
   {
@@ -30,7 +30,7 @@
       "Salt",
       "Pepper"
     ],
-    "preparing_time": "15 minutes",
+    "preparing_time": 15,
     "calories": 300
   },
   {
@@ -48,7 +48,7 @@
       "Vanilla extract",
       "Salt"
     ],
-    "preparing_time": "35 minutes",
+    "preparing_time": 35,
     "calories": 450
   },
   {
@@ -65,7 +65,7 @@
       "Salt",
       "Pepper"
     ],
-    "preparing_time": "25 minutes",
+    "preparing_time": 25,
     "calories": 500
   },
   {
@@ -82,7 +82,7 @@
       "Salt",
       "Pepper"
     ],
-    "preparing_time": "20 minutes",
+    "preparing_time": 20,
     "calories": 350
   },
   {
@@ -99,7 +99,7 @@
       "Olive oil",
       "Tahini dressing"
     ],
-    "preparing_time": "30 minutes",
+    "preparing_time": 30,
     "calories": 400
   }
 ]

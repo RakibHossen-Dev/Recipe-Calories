@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <div>
-      <div className="flex lg:flex-row flex-col justify-between items-center my-8 gap-4">
+      <div className="flex lg:flex-row flex-col justify-between items-center my-8 gap-4 ">
         <div>
           <h3 className="text-3xl font-bold">Recipe Calories</h3>
         </div>
